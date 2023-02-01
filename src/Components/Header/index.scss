@@ -1,0 +1,13 @@
+.header{
+    min-height: 100px;
+    background-color: #d2dde6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .__left{
+        font-size: 25px;
+        font-weight: bold;
+        color: #4a90cc;
+        margin-left: 21rem;
+    }
+}

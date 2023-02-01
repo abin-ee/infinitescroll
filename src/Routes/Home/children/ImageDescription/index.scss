@@ -1,0 +1,18 @@
+.descriptionmain{
+    margin: .5rem 0 0 2rem;
+    .__header{
+        display: flex;
+        flex-direction: column;
+        .mainheader{
+            font-size: 20px;
+        }
+        .subheader{
+            font-size: 15px;
+            color: rgb(98, 99, 99);
+        }
+    }
+    .__footer{
+        font-size: 15px;
+        color: rgb(168, 170, 170);
+    }
+}

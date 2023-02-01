@@ -1,0 +1,10 @@
+.searchbox {
+    margin: 0 16rem 0 0;
+    .ant-input {
+        height: 50px !important;
+        border-radius: 10px;
+    }
+    .ant-input-search-button{
+        border: none;
+    }
+}
